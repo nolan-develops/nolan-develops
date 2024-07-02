@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nolan-develops
+- 👀 I’m interested in becoming more advanced in javascript and/or python
+- 🌱 I’m currently learning how all code works in real situation application.
+- 💞️ I’m looking to collaborate on learning.
+- 📫 How to reach me 
+- ⚡ Fun fact: I have driven from D.C. to Los Angeles.
